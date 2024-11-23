@@ -1,3 +1,2 @@
-# Mathematical Modelling - Fall 2024
-## Assignment: Cutting Stock Problem
--> Using first fit
+## Assignment: 2D Cutting Stock Problem
+## -> Using first fit
